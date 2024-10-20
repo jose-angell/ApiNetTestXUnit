@@ -1,0 +1,6 @@
+@ApiNetTestXUnit_HostAddress = http://localhost:5243
+
+GET {{ApiNetTestXUnit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
